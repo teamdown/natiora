@@ -162,29 +162,6 @@
                 <div class="swiper-slide">
                     <img src="/static/assets/img/blog-7.png" alt="">
                     <div class="post-intro">
-                        <h3><router-link to="single">What’s behind the retreating kelps and expanding corals ?</router-link></h3>
-                        <p class="info">
-                            <span>
-                                    By Ny Hasinavalona
-                                </span>
-                            <span>25/08/2018</span>
-                            <span>
-                                    In
-                                    <a href="#">His personal blog</a>
-                                </span>
-                            <span>
-                                    <a href="#">Comments 2</a>
-                                </span>
-                        </p>
-                        <div class="two spacing"></div>
-                        <p class="read-more-button">
-                            <router-link to="single" class="button boxed small black">Read more</router-link>
-                        </p>
-                    </div>
-                </div>
-                <div class="swiper-slide">
-                    <img src="/static/assets/img/blog-8.png" alt="">
-                    <div class="post-intro">
                         <h3><router-link to="single">To float or not to float ? Mystery solved as to why algae balls float and sink</router-link></h3>
                         <p class="info">
                             <span>
