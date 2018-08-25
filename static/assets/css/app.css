@@ -224,11 +224,11 @@ body.swiper-body .site-intro h2, body.swiper-end .site-intro h2 {
   transform: translateY(60px);
   opacity: 0; }
 
-body.swiper-body .site-intro p, body.swiper-end .site-intro p {
+  body.swiper-body .site-intro p, body.swiper-end .site-intro p {
   transform: translateY(60px);
   opacity: 0; }
 
-body.swiper-body .site-intro ul, body.swiper-end .site-intro ul {
+  body.swiper-body .site-intro ul, body.swiper-end .site-intro ul {
   transform: translateY(60px);
   opacity: 0; }
 
@@ -1197,7 +1197,7 @@ p.thanks {
   padding: 0; }
 
 /* for Swiper slide */
-html, body {
+html, body, .main-container {
   position: relative;
   height: 100%; }
 
