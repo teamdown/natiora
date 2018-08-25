@@ -304,3 +304,67 @@
         </div>
     </div>
 </template>
+<script>
+export default {
+    mounted() {
+        new Swiper('#posts', {
+        slidesPerView: 'auto',
+        slidesOffsetAfter: 600,
+        speed: 700,
+        slidesPerGroup: 2,
+        // freeMode: true,
+        mousewheel: true,
+        grabCursor: true,
+        on: {
+        init: function() {
+            jQuery(this.$el).addClass('initialized');
+        },
+        transitionEnd: function() {
+            if ( this.isEnd ) {
+            jQuery('body').addClass('swiper-end');
+            }
+
+            if ( this.isBeginning || this.isEnd ) {
+            jQuery('body').removeClass('swiper-body');
+            }
+        },
+        fromEdge: function() {
+            jQuery('body').removeClass('swiper-end');
+            jQuery('body').addClass('swiper-body');
+        }
+        },
+        breakpoints: {
+        1400: {
+
+            slidesPerView: 3
+        },
+        1200: {
+            slidesPerView: 2,
+            slidesPerGroup: 1
+
+        },
+        900: {
+            slidesPerGroup: 1,
+            slidesPerView: 2,
+            slidesOffsetAfter: 500
+        },
+
+        800: {
+            slidesOffsetAfter: 0,
+            slidesPerGroup: 1,
+            slidesPerView: 2
+        },
+
+
+        640: {
+            slidesPerView: 1,
+            slidesPerGroup: 1,
+            slidesOffsetAfter: 0,
+            speed: 1500
+        }
+
+        }
+    });
+    }
+}
+</script>

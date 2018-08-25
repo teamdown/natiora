@@ -466,7 +466,160 @@
 
 <script>
 export default {
-    
+    mounted() {
+        new Swiper('#process', {
+            slidesPerView: 'auto',
+            spaceBetween: 0,
+            speed: 1000,
+            grabCursor: true,
+            mousewheel: false,
+            freeMode: true,
+            slidesOffsetAfter: 100,
+            navigation: {
+            nextEl: '.swiper-button-next.process',
+            prevEl: '.swiper-button-prev.process',
+            },
+            on: {
+            init: function() {
+                jQuery(this.$el).addClass('initialized');
+            },
+            transitionEnd: function() {
+                if ( this.isEnd ) {
+                jQuery('body').addClass('swiper-end');
+                }
+
+                if ( this.isBeginning || this.isEnd ) {
+                jQuery('body').removeClass('swiper-body');
+                }
+            },
+            fromEdge: function() {
+                jQuery('body').removeClass('swiper-end');
+                jQuery('body').addClass('swiper-body');
+            }
+            },
+            breakpoints: {
+            800: {
+
+            }
+            }
+        });
+        new Swiper('#office-images', {
+            slidesPerView: 'auto',
+            loop: true,
+            effect: 'fade',
+            autoplay: {
+            delay: 2500,
+            disableOnInteraction: false,
+            },
+            navigation: {
+            nextEl: '.swiper-button-next.office',
+            prevEl: '.swiper-button-prev.office',
+            },
+            pagination: {
+            el: '.swiper-pagination',
+            type: 'bullets',
+            clickable: true,
+            },
+            on: {
+            init: function() {
+                jQuery(this.$el).addClass('initialized');
+            }
+            }
+        });
+        new Swiper('#about', {
+            slidesPerView: 'auto',
+            slidesOffsetAfter: 600,
+            speed: 2000,
+            freeMode: true,
+            // mousewheel: true,
+            // mousewheel: {
+            //   releaseOnEdges: true
+            // },
+            grabCursor: true,
+            on: {
+            init: function() {
+                jQuery(this.$el).addClass('initialized');
+            },
+            transitionEnd: function() {
+                if ( this.isEnd ) {
+                jQuery('body').addClass('swiper-end');
+                }
+
+                if ( this.isBeginning || this.isEnd ) {
+                jQuery('body').removeClass('swiper-body');
+                }
+            },
+            fromEdge: function() {
+                jQuery('body').removeClass('swiper-end');
+                jQuery('body').addClass('swiper-body');
+            }
+            },
+            breakpoints: {
+            1400: {
+                slidesOffsetAfter: 450
+            },
+            1024: {
+                slidesOffsetAfter: 500
+            },
+            900: {
+                slidesOffsetAfter: 400
+            },
+
+            800: {
+                slidesOffsetAfter: 100
+            }
+            }
+        });
+        new Swiper('#members', {
+            slidesPerView: "3",
+            spaceBetween: 40,
+            speed: 1000,
+            grabCursor: true,
+            // freeMode: true,
+            slidesPerGroup: 2,
+            mousewheel: false,
+            // loop: true,
+            navigation: {
+            nextEl: '.swiper-button-next.members',
+            prevEl: '.swiper-button-prev.members',
+            },
+            on: {
+            init: function() {
+                jQuery(this.$el).addClass('initialized');
+            },
+            transitionEnd: function() {
+                if ( this.isEnd ) {
+                jQuery('body').addClass('swiper-end');
+                }
+
+                if ( this.isBeginning || this.isEnd ) {
+                jQuery('body').removeClass('swiper-body');
+                }
+            },
+            fromEdge: function() {
+                jQuery('body').removeClass('swiper-end');
+                jQuery('body').addClass('swiper-body');
+            }
+            },
+            breakpoints: {
+            1200: {
+                slidesPerView: 2,
+                slidesPerGroup: 1
+            },
+
+            800: {
+                slidesPerView: 2,
+                slidesPerGroup: 1
+            },
+
+            640: {
+                slidesPerView: 1,
+                slidesPerGroup: 1
+            }
+            }
+        });
+
+    }
 }
 </script>
 
