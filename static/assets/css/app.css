@@ -819,7 +819,7 @@ body.swiper-end #call-to-action {
 
 .client {
   background-color: rgba(0, 0, 0, 0.7);
-  background-image: url(../../images/@stock/client-bg.jpg);
+  background-image: url(/static/assets/img/client-bg.jpg);
   background-position: left top;
   background-repeat: no-repeat; }
 
@@ -1354,55 +1354,55 @@ html, body, .main-container {
   /*transition: all 0.3s ease;*/ }
 
 #main .swiper-slide #work-1 {
-  background-image: url(../../images/@stock/work-1.jpg); }
+  background-image: url(/static/assets/img/work-1.jpg); }
 
 #main .swiper-slide #work-2 {
-  background-image: url(../../images/@stock/work-2.jpg); }
+  background-image: url(/static/assets/img/work-2.jpg); }
 
 #main .swiper-slide #work-3 {
-  background-image: url(../../images/@stock/work-3.jpg); }
+  background-image: url(/static/assets/img/work-3.jpg); }
 
 #main .swiper-slide #work-4 {
-  background-image: url(../../images/@stock/work-4.jpg); }
+  background-image: url(/static/assets/img/work-4.jpg); }
 
 #main .swiper-slide #work-5 {
-  background-image: url(../../images/@stock/work-5.jpg); }
+  background-image: url(/static/assets/img/work-5.jpg); }
 
 #main .swiper-slide #work-6 {
-  background-image: url(../../images/@stock/work-6.jpg); }
+  background-image: url(/static/assets/img/work-6.jpg); }
 
 #main .swiper-slide #work-7 {
-  background-image: url(../../images/@stock/work-7.jpg); }
+  background-image: url(/static/assets/img/work-7.jpg); }
 
 #main .swiper-slide #work-8 {
-  background-image: url(../../images/@stock/work-8.jpg); }
+  background-image: url(/static/assets/img/work-8.jpg); }
 
 #main .swiper-slide #work-9 {
-  background-image: url(../../images/@stock/work-9.jpg); }
+  background-image: url(/static/assets/img/work-9.jpg); }
 
 #main .swiper-slide #work-10 {
-  background-image: url(../../images/@stock/work-10.jpg); }
+  background-image: url(/static/assets/img/work-10.jpg); }
 
 #main .swiper-slide #work-11 {
-  background-image: url(../../images/@stock/work-11.jpg); }
+  background-image: url(/static/assets/img/work-11.jpg); }
 
 #main .swiper-slide #work-12 {
-  background-image: url(../../images/@stock/work-12.jpg); }
+  background-image: url(/static/assets/img/work-12.jpg); }
 
 #main .swiper-slide #work-13 {
-  background-image: url(../../images/@stock/work-13.jpg); }
+  background-image: url(/static/assets/img/work-1.jpg); }
 
 #main .swiper-slide #work-14 {
-  background-image: url(../../images/@stock/work-14.jpg); }
+  background-image: url(/static/assets/img/work-3.jpg); }
 
 #main .swiper-slide #work-15 {
-  background-image: url(../../images/@stock/work-15.jpg); }
+  background-image: url(/static/assets/img/work-5.jpg); }
 
 #main .swiper-slide #work-16 {
-  background-image: url(../../images/@stock/work-16.jpg); }
+  background-image: url(/static/assets/img/work-9.jpg); }
 
 #main .swiper-slide #work-17 {
-  background-image: url(../../images/@stock/work-17.jpg); }
+  background-image: url(/static/assets/img/work-8.jpg); }
 
 #about .swiper-slide {
   overflow: hidden;
