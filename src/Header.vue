@@ -26,16 +26,7 @@
             <ul>
               <li><a href="http://html.blahlab.com/concis/index.html">Home</a></li>
               <li><a href="http://html.blahlab.com/concis/about.html">About</a></li>
-              <li><a href="http://html.blahlab.com/concis/services.html">Services</a></li>
-              <li>
-                <a href="http://html.blahlab.com/concis/cases.html">Cases</a>
-                <ul>
-                  <li><a href="http://html.blahlab.com/concis/case-study.html">Case study</a></li>
-                  <li><a href="http://html.blahlab.com/concis/case-study-2.html">Case study 2</a></li>
-                </ul>
-              </li>
               <li><a href="http://html.blahlab.com/concis/blog.html">Blog</a></li>
-              <li><a href="http://html.blahlab.com/concis/contact.html">Contact</a></li>
             </ul>
           </nav>
           <div id="contact-info">

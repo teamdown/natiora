@@ -1,6 +1,6 @@
 <template>
     <div id="app" class="main-container swiper-body">
-        <div id="logo"><a href="http://html.blahlab.com/concis/index.html"><h1><img src="/static/assets/img/logo.png" alt=""></h1></a></div>
+        <app-logo></app-logo>
         <app-header></app-header>
         <div class="lines-wrapper">
 

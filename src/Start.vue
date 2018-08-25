@@ -1,5 +1,6 @@
 <template>
     <div id="app" class="main-container swiper-body">
+      <app-logo></app-logo>
       <app-header></app-header>
       <div class="lines-wrapper">
         <div class="horizontal-line"></div>

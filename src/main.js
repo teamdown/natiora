@@ -8,10 +8,12 @@ import Start from './Start.vue'
 import Single from './Single.vue'
 
 import Header from './Header.vue'
+import Logo from './Logo.vue'
 
 Vue.use(VueRouter)
 
 Vue.component('app-header', Header);
+Vue.component('app-logo', Logo);
 
 const routes = [
   { path: '', component: Start},
