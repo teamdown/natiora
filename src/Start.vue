@@ -13,17 +13,14 @@
         <img src="/static/assets/img/red-triangle.png" alt="">
       </div>
       <div class="site-intro">
-        <h2>We create brands.</h2>
+        <h2>Madagascar Biodiversity</h2>
         <p>
-          We use research and strategy to create brands’ most powerful values.
+          Don’t let species go extinct, in this world we are all linked.
         </p>
         <div class="spacing"></div>
-        <p>
-          <a href="http://html.blahlab.com/concis/about.html" class="button boxed black">Know more</a>
-        </p>
       </div>
-      <div class="action-hint">Scroll or drag to explore.</div>
-      <div class="action-hint-for-touch">Swipe to explore more works.</div>
+      <div class="action-hint">Scroll or drag to expore.</div>
+      <div class="action-hint-for-touch">Swipe to view Madagascar's Biodiversity.</div>
 
       <!-- Swiper -->
       <div class="swiper-container swiper-container-horizontal swiper-container-wp8-horizontal initialized" id="main">
