@@ -24,19 +24,20 @@
         <div id="menu-content">
           <nav id="main-menu">
             <ul>
-              <li><a href="http://html.blahlab.com/concis/index.html">Home</a></li>
-              <li><a href="http://html.blahlab.com/concis/about.html">About</a></li>
-              <li><a href="http://html.blahlab.com/concis/blog.html">Blog</a></li>
+              <li><router-link to="/">Home</router-link></li>
+              <li><router-link to="about">About</router-link></li>
+              <li><router-link to="blog">Blog</router-link></li>
             </ul>
           </nav>
           <div id="contact-info">
             <p>
-              120 K St, Second Floor <br>
-              Sacramento <br>
-              CA 95814
+              Immeuble Master Trade Route du Pape,<br>
+              BP 8515. <br>
+              Morarano 101
             </p>
-            <p><a href="http://html.blahlab.com/concis/916.921.9278">916.921.9278</a></p>
-            <p><a href="mailto:business@concis.com" title="business email">business@concis.com</a></p>
+            <p><a href="#">(+261) 34 29 169 01</a></p>
+            <p><a href="mailto:nyandrianinamamy@lmit.fr" title="business email">nyandrianinamamy@lmit.fr</a></p>
+            <p><a href="mailto:nyhara@lmit.fr" title="business email">nyhara@lmit.fr</a></p>
           </div>
           <div id="socials">
             <ul>
@@ -48,7 +49,7 @@
             </ul>
           </div>
           <p id="copyright">
-            All rights reserved 2018 © concis
+            All rights reserved 2018 © Razafintsialonina Mamy & Randriantsarafara Ny Hasinavalona
           </p>
         </div>
         <div id="bg-primary" class=""></div>

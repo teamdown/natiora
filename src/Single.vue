@@ -33,7 +33,7 @@
         </div>
         <p class="scroll-down-arrow">
             <span class="scroll-down">
-            <i class="icon-arrows-slim-down"></i>
+            <i class="icon-arrows-slim-down" src="/static/assets/img/slim-down.svg"></i>
             </span>
         </p>
         </div>

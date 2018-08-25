@@ -29,7 +29,7 @@
             <div class="swiper-slide sticky swiper-slide-active">
             <img src="/static/assets/img/blog-1.jpg" alt="">
             <div class="post-intro">
-                <h3><a href="http://html.blahlab.com/concis/single.html">You do not take a photograph, you make it.</a></h3>
+                <h3><router-link to="single">You do not take a photograph, you make it.</router-link></h3>
                 <p class="info">
                 <span>
                     By honryou
@@ -45,7 +45,7 @@
                 </p>
                 <div class="two spacing"></div>
                 <p class="read-more-button">
-                <a href="http://html.blahlab.com/concis/single.html" class="button boxed small black">Read more</a>
+                <router-link to="single" class="button boxed small black">Read more</router-link>
                 </p>
 
             </div>
