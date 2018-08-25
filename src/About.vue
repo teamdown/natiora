@@ -67,34 +67,28 @@
             <div class="swiper-container swiper-container-fade swiper-container-horizontal swiper-container-wp8-horizontal initialized" id="office-images">
                 <div class="swiper-wrapper" style="transition-duration: 300ms;">
                     <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="7" style="width: 1360px; transition-duration: 300ms; opacity: 1; transform: translate3d(0px, 0px, 0px);">
-                        <img src="/static/assets/img/slide-full-8.jpg" alt="">
+                        <img src="/static/assets/img/work-8.jpg" alt="">
                     </div>
                     <div class="swiper-slide" data-swiper-slide-index="0" style="width: 1360px; transition-duration: 300ms; opacity: 1; transform: translate3d(-1360px, 0px, 0px);">
-                        <img src="/static/assets/img/slide-full-1.jpg" alt="">
+                        <img src="/static/assets/img/work-1.jpg" alt="">
                     </div>
                     <div class="swiper-slide" data-swiper-slide-index="1" style="width: 1360px; transition-duration: 300ms; opacity: 1; transform: translate3d(-2720px, 0px, 0px);">
-                        <img src="/static/assets/img/slide-full-2.jpg" alt="">
-                    </div>
-                    <div class="swiper-slide" data-swiper-slide-index="2" style="width: 1360px; transition-duration: 300ms; opacity: 1; transform: translate3d(-4080px, 0px, 0px);">
-                        <img src="/static/assets/img/slide-full-3.jpg" alt="">
+                        <img src="/static/assets/img/work-2.jpg" alt="">
                     </div>
                     <div class="swiper-slide swiper-slide-prev" data-swiper-slide-index="3" style="width: 1360px; transition-duration: 300ms; opacity: 1; transform: translate3d(-5440px, 0px, 0px);">
-                        <img src="/static/assets/img/slide-full-4.jpg" alt="">
-                    </div>
-                    <div class="swiper-slide swiper-slide-active" data-swiper-slide-index="4" style="width: 1360px; transition-duration: 300ms; opacity: 1; transform: translate3d(-6800px, 0px, 0px);">
-                        <img src="/static/assets/img/slide-full-5.jpg" alt="">
+                        <img src="/static/assets/img/work-4.jpg" alt="">
                     </div>
                     <div class="swiper-slide swiper-slide-next" data-swiper-slide-index="5" style="width: 1360px; transition-duration: 300ms; opacity: 0; transform: translate3d(-8160px, 0px, 0px);">
-                        <img src="/static/assets/img/slide-full-6.jpg" alt="">
+                        <img src="/static/assets/img/work-6.jpg" alt="">
                     </div>
                     <div class="swiper-slide" data-swiper-slide-index="6" style="width: 1360px; transition-duration: 300ms; opacity: 0; transform: translate3d(-9520px, 0px, 0px);">
-                        <img src="/static/assets/img/slide-full-7.jpg" alt="">
+                        <img src="/static/assets/img/work-7.jpg" alt="">
                     </div>
                     <div class="swiper-slide" data-swiper-slide-index="7" style="width: 1360px; transition-duration: 300ms; opacity: 0; transform: translate3d(-10880px, 0px, 0px);">
-                        <img src="/static/assets/img/slide-full-8.jpg" alt="">
+                        <img src="/static/assets/img/work-8.jpg" alt="">
                     </div>
                     <div class="swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0" style="width: 1360px; transition-duration: 300ms; opacity: 0; transform: translate3d(-12240px, 0px, 0px);">
-                        <img src="/static/assets/img/slide-full-1.jpg" alt="">
+                        <img src="/static/assets/img/work-1.jpg" alt="">
                     </div>
                 </div>
                 <div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active"></span>
