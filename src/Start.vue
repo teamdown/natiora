@@ -241,3 +241,75 @@
     </div>
   </div>
 </template>
+
+<script>
+export default {
+    mounted() {
+          $('#menu-controller').on('click', function() {
+            var wrapper = $(this).closest('#menu-wrapper');
+
+            if ( $(wrapper).hasClass('open-menu') ) {
+            $("#menu-wrapper").removeClass('open-menu').addClass('close-menu');
+            } else {
+            $("#menu-wrapper").removeClass('close-menu').addClass('open-menu');
+            }
+
+        });
+        
+        new Swiper('#main', {
+            slidesPerView: 3,
+            spaceBetween: 0,
+            slidesOffsetAfter: 1200,
+            slidesPerGroup: 2,
+            speed: 700,
+            mousewheel: {
+            releaseOnEdges: true
+            },
+            on: {
+            init: function() {
+                jQuery(this.$el).addClass('initialized');
+            },
+            transitionEnd: function() {
+                if ( this.isEnd ) {
+                jQuery('body').addClass('swiper-end');
+                }
+
+                if ( this.isBeginning || this.isEnd ) {
+                jQuery('body').removeClass('swiper-body');
+                }
+            },
+            fromEdge: function() {
+                jQuery('body').removeClass('swiper-end');
+                jQuery('body').addClass('swiper-body');
+            }
+            },
+            breakpoints: {
+            1400: {
+                slidesPerView: 3,
+                spaceBetween: 0,
+                slidesOffsetAfter: 1100
+            },
+            1200: {
+                slidesPerView: 2,
+                spaceBetween: 0,
+                slidesOffsetAfter: 1000,
+                slidesPerGroup: 1
+            },
+            900: {
+                slidesPerView: 2,
+                spaceBetween: 0,
+                slidesOffsetAfter: 800,
+                slidesPerGroup: 1
+            },
+
+            800: {
+                slidesPerView: 1,
+                spaceBetween: 0,
+                slidesOffsetAfter: 0,
+                slidesPerGroup: 1
+            }
+            }
+        });
+    }
+}
+</script>

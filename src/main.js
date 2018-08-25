@@ -5,13 +5,15 @@ import VueRouter from 'vue-router'
 import Blog from './Blog.vue'
 import About from './About.vue'
 import Start from './Start.vue'
+import Single from './Single.vue'
 
 Vue.use(VueRouter)
 
 const routes = [
   { path: '', component: Start},
   { path: '/about', component: About},
-  { path: '/blog', component: Blog }
+  { path: '/blog', component: Blog },
+  { path: '/single', component: Single }
 ]
 
 const router = new VueRouter({
