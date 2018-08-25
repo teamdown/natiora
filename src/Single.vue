@@ -173,7 +173,7 @@
             </div>
         </div>
         <div class="full white centered-text">
-            <a href="http://html.blahlab.com/concis/blog.html" class="boxed black button">Back to all posts</a>
+            <a href="#" class="boxed black button">Back to all posts</a>
         </div>
     </div>
 </template>

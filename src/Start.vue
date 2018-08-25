@@ -104,7 +104,7 @@
             <div class="whole item" id="work-10">
               <div class="work-caption">
                 <h3>Lemurs</h3>
-                <p class="work-client">life&amp;fashion</p>
+                <p class="work-client">Unsplash.com</p>
               </div>
               <a href="#">view more</a>
             </div>
@@ -129,7 +129,7 @@
             <div class="whole item" id="work-13">
               <div class="work-caption">
                 <h3>Moutain</h3>
-                <p class="work-client">Unsplash.com</p>
+                <p clashorizontal-lines="work-client">Unsplash.com</p>
               </div>
               <a href="#">view more</a>
             </div>

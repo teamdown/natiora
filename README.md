@@ -15,4 +15,7 @@ npm run dev
 npm run build
 ```
 
+#Builded file must be ran under an active development server not locally
+#You cannot run it directly with index.html
+
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
