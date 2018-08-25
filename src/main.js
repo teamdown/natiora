@@ -7,7 +7,11 @@ import About from './About.vue'
 import Start from './Start.vue'
 import Single from './Single.vue'
 
+import Header from './Header.vue'
+
 Vue.use(VueRouter)
+
+Vue.component('app-header', Header);
 
 const routes = [
   { path: '', component: Start},

@@ -30,19 +30,6 @@
     }
   });
 
-
-  $('#menu-controller').on('click', function() {
-
-    var wrapper = $(this).closest('#menu-wrapper');
-
-    if ( $(wrapper).hasClass('open-menu') ) {
-      $("#menu-wrapper").removeClass('open-menu').addClass('close-menu');
-    } else {
-      $("#menu-wrapper").removeClass('close-menu').addClass('open-menu');
-    }
-
-  });
-
   $(document).ready(function() {
     $('.red, .purple, .orange').each(function() {
 
