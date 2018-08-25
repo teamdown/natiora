@@ -28,150 +28,149 @@
           <div class="swiper-slide type-3" style="width: 640px;">
             <div class="top-section item" id="work-1">
               <div class="work-caption">
-                <h3>Motivation</h3>
-                <p class="work-client">Applin.com</p>
+                <h3>Moutain</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study.html">view more</a>
+              <a href="#">view more</a>
             </div>
             <div class="bottom-section item" id="work-2">
               <div class="work-caption">
-                <h3>Beauty or death</h3>
-                <p class="work-client">Pure milk</p>
+                <h3>Morondava</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study-2.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
           <div class="swiper-slide type-1" style="width: 640px;">
             <div class="whole item" id="work-3">
               <div class="work-caption">
-                <h3>Sketch it!</h3>
-                <p class="work-client">Brand book</p>
+                <h3>Lemurs</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
           <div class="swiper-slide type-2" style="width: 640px;">
             <div class="top-section item" id="work-4">
               <div class="work-caption">
-                <h3>Vegetable series</h3>
-                <p class="work-client">Painters</p>
+                <h3>Leaf</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study-2.html">view more</a>
+              <a href="#">view more</a>
             </div>
             <div class="bottom-section item" id="work-5">
               <div class="work-caption">
-                <h3>Light in dark</h3>
-                <p class="work-client">Lights company</p>
+                <h3>Moutain</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
           <div class="swiper-slide type-1 swiper-slide-prev" style="width: 640px;">
             <div class="whole item" id="work-6">
               <div class="work-caption">
-                <h3>Gifts for Apirl</h3>
-                <p class="work-client">makegifts.com</p>
+                <h3>Coffee</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study-2.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
           <div class="swiper-slide type-4 swiper-slide-active" style="width: 640px;">
             <div class="top-section item" id="work-7">
               <div class="work-caption">
-                <h3>Mode</h3>
-                <p class="work-client">Yourstyle.com</p>
+                <h3>Paddy Field</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study.html">view more</a>
+              <a href="#">view more</a>
             </div>
             <div class="bottom-section item" id="work-8">
               <div class="work-caption">
-                <h3>Drastic action</h3>
-                <p class="work-client">News</p>
+                <h3>Corn Field</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study-2.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
           <div class="swiper-slide type-1 swiper-slide-next" style="width: 640px;">
             <div class="whole item" id="work-9">
               <div class="work-caption">
-                <h3>Attitudes</h3>
-                <p class="work-client">Attitudes.com</p>
+                <h3>Chameleon</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
           <div class="swiper-slide type-1" style="width: 640px;">
             <div class="whole item" id="work-10">
               <div class="work-caption">
-                <h3>New arrivals</h3>
+                <h3>Lemurs</h3>
                 <p class="work-client">life&amp;fashion</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study-2.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
           <div class="swiper-slide type-2" style="width: 640px;">
             <div class="top-section item" id="work-11">
               <div class="work-caption">
-                <h3>Years</h3>
-                <p class="work-client">Distinguish.com</p>
+                <h3>Flower</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study.html">view more</a>
+              <a href="#">view more</a>
             </div>
             <div class="bottom-section item" id="work-12">
               <div class="work-caption">
-                <h3>Power</h3>
-                <p class="work-client">Showing.com</p>
+                <h3>Rice</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study-2.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
           <div class="swiper-slide type-1" style="width: 640px;">
             <div class="whole item" id="work-13">
               <div class="work-caption">
-                <h3>Kill it?</h3>
-                <p class="work-client">Perfume style</p>
+                <h3>Moutain</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
           <div class="swiper-slide type-2" style="width: 640px;">
             <div class="top-section item" id="work-14">
               <div class="work-caption">
-                <h3>Think deeply</h3>
+                <h3>Lemurs</h3>
                 <p class="work-client"></p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study-2.html">psychology</a>
+              <a href="#">Unsplash.com</a>
             </div>
             <div class="bottom-section item" id="work-15">
               <div class="work-caption">
-                <h3>New trend</h3>
-                <p class="work-client">Creativetextures.com</p>
+                <h3>Rocks</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
           <div class="swiper-slide type-4" style="width: 640px;">
             <div class="top-section item" id="work-16">
               <div class="work-caption">
-                <h3>Animal series</h3>
-                <p class="work-client">Photography</p>
+                <h3>Chameleon</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study-2.html">view more</a>
+              <a href="#">view more</a>
             </div>
             <div class="bottom-section item" id="work-17">
               <div class="work-caption">
-                <h3>High level</h3>
-                <p class="work-client">Dancers.com</p>
+                <h3>Corn Field</h3>
+                <p class="work-client">Unsplash.com</p>
               </div>
-              <a href="http://html.blahlab.com/concis/case-study.html">view more</a>
+              <a href="#">view more</a>
             </div>
           </div>
         </div>
       </div>
       <div id="call-to-action">
-        <h2>Have an idea?</h2>
-        <p>We have a way to get you there.</p>
-        <p><a href="http://html.blahlab.com/concis/works.html" class="button black boxed small">Contact us</a></p>
+        <h2>Get a look to our biodiversity blog </h2>
+        <p>We have a way to get you <router-link to="blog"> there </router-link>.</p>
     </div>
   </div>
 </template>
